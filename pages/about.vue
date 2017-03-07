@@ -5,7 +5,7 @@
       This page is loaded from the {{ name }}
     </h1>
     <h2 class="info" v-if="name === 'client'">
-      Please refresh the page
+      A project by Darno
     </h2>
     <nuxt-link class="button" to="/">
       Home page
