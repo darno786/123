@@ -2,7 +2,7 @@
   <section class="container">
     <img src="../assets/img/Logomakr_9YpC3B.png" alt="Nuxt.js Logo" class="logo" />
     <h1 class="title">
-      A project by Darno Sponsored by paintbrush personalising
+      A project by Darno sponsored by Danyal Maruf the Legend
     </h1>
     <h2 class="title">
       test file
